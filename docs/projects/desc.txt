@@ -1,0 +1,2 @@
+This is the folder where projects that students don't have available online.
+First version of this site includes four projects from: Jonah Shahid, Ben Bryan, Andreana Madera, and Colin Wilson
